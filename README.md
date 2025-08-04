@@ -20,7 +20,7 @@ The assignment walks through these steps using a list:
 
 ## 🛠️ How to Run
 
-Make sure you have **Python 3.x** installed.
+Make sure you have **Python 3.13.5** installed.
 
 To run the code:
 ```bash
